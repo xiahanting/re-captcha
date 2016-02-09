@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
-  <title> Demo</title>
+  <title>re-captcha Demo</title>
   <style>
     #eventMessage{
       border-radius: 15px;
@@ -11,8 +11,13 @@
       padding: 15px;
     }
   </style>
-  <script src="../webcomponentsjs/webcomponents-lite.min.js"></script>
-  <link rel="import" href="re-captcha.html">
+  <script src="../../webcomponentsjs/webcomponents-lite.min.js"></script>
+  <link rel="import" href="../../paper-input/paper-input.html">
+  <link rel="import" href="../../iron-form/iron-form.html">
+  <link rel="import" href="../../paper-card/paper-card.html">
+  <link rel="import" href="../../paper-button/paper-button.html">
+
+  <link rel="import" href="../re-captcha.html">
   <script type="text/javascript">
     window.addEventListener('WebComponentsReady', function(e) {
       var rec = document.querySelector('re-captcha');
@@ -29,17 +34,22 @@
         message.textContent = "CAPTCHA EXPIRED";
       });
 
+
+      var button= document.querySelector("#submit");
+      var formcaptcha = document.querySelector('#captcha');
+      formcaptcha.addEventListener('captcha-response', function(e){
+        button.disabled=false;
+      });
+
     });
+
   </script>
 </head>
 <body>
-  <p>Default </p>
+  <p>Default re-captcha</p>
   <re-captcha sitekey="6LdRcP4SAAAAAJ4Dq1gXcD9AyhzuG77iz7E2Dmu4"></re-captcha>
-  <p>Dark </p>
-  <re-captcha theme="dark" sitekey="6LdRcP4SAAAAAJ4Dq1gXcD9AyhzuG77iz7E2Dmu4"></re-captcha>
-  <p>Audio </p>
-  <re-captcha type="audio" sitekey="6LdRcP4SAAAAAJ4Dq1gXcD9AyhzuG77iz7E2Dmu4"></re-captcha>
   <p>Event message (working with the first captcha)</p>
   <p id="eventMessage"></p>
+
 </body>
 </html>
