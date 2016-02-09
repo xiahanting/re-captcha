@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27f6d1c9-e23f-42c7-a301-70b3acc0d128" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/async/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/async/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/async/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/async/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/async/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/async/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/async/deps/nodeunit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/async/deps/nodeunit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/async/lib/async.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/async/nodelint.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/async/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/async/support/sync-package-managers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/chai/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/chai/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/chai/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/chai/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/chai/ReleaseNotes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/chai/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/chai/chai.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/chai/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/chai/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/chai/karma.sauce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/chai/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/chai/sauce.browsers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/hydrolysis/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/hydrolysis/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/hydrolysis/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/hydrolysis/API.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/hydrolysis/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/hydrolysis/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/hydrolysis/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/hydrolysis/hydrolysis-analyzer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/hydrolysis/hydrolysis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/hydrolysis/hydrolysis.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/hydrolysis/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-a11y-keys-behavior/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-a11y-keys-behavior/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-a11y-keys-behavior/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-a11y-keys-behavior/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-a11y-keys-behavior/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-a11y-keys-behavior/demo/x-key-aware.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-a11y-keys-behavior/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-a11y-keys-behavior/iron-a11y-keys-behavior.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-a11y-keys-behavior/test/basic-test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-a11y-keys-behavior/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-ajax/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-ajax/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-ajax/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-ajax/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-ajax/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-ajax/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-ajax/iron-ajax.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-ajax/iron-request.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-ajax/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-ajax/test/iron-ajax.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-ajax/test/iron-request.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-behaviors/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-behaviors/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-behaviors/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-behaviors/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-behaviors/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-behaviors/demo/simple-button.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-behaviors/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-behaviors/iron-button-state.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-behaviors/iron-control-state.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-behaviors/test/active-state.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-behaviors/test/disabled-state.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-behaviors/test/focused-state.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-behaviors/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-behaviors/test/test-elements.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-component-page/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-component-page/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-component-page/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-component-page/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-component-page/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-component-page/demo/json-descriptor.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-component-page/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-component-page/iron-component-page.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-component-page/iron-component-page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-component-page/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-component-page/test/iron-component-page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-component-page/test/test-element.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-doc-viewer/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-doc-viewer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-doc-viewer/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-doc-viewer/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-doc-viewer/iron-doc-property.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-doc-viewer/iron-doc-property.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-doc-viewer/iron-doc-viewer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-doc-viewer/iron-doc-viewer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-doc-viewer/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-doc-viewer/test/iron-doc-viewer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-flex-layout/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-flex-layout/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-flex-layout/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-flex-layout/classes/iron-flex-layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-flex-layout/classes/iron-shadow-flex-layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-flex-layout/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-flex-layout/demo/x-app.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-flex-layout/iron-flex-layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icon/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icon/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icon/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icon/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icon/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icon/demo/location.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icon/hero.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icon/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icon/iron-icon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icon/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icon/test/iron-icon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/av-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/communication-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/device-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/editor-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/hardware-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/hero.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/image-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/iron-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/maps-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/notification-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-icons/social-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-iconset-svg/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-iconset-svg/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-iconset-svg/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-iconset-svg/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-iconset-svg/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-iconset-svg/demo/svg-sample-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-iconset-svg/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-iconset-svg/iron-iconset-svg.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-iconset-svg/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-iconset-svg/test/iron-iconset-svg.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-meta/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-meta/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-meta/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-meta/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-meta/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-meta/hero.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-meta/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-meta/iron-meta.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-meta/test/basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-meta/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-meta/test/iron-meta.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/iron-multi-selectable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/iron-selectable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/iron-selection.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/iron-selector.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/test/activate-event.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/test/basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/test/content-element.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/test/content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/test/multi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/test/next-previous.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/test/selected-attribute.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/iron-selector/test/template-repeat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/lodash/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/lodash/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/lodash/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/lodash/lodash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/lodash/lodash.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked-element/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked-element/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked-element/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked-element/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked-element/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked-element/hero.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked-element/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked-element/marked-element.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked-element/marked-import.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked-element/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked-element/test/marked-element.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked/bin/marked" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked/doc/broken.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked/doc/todo.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked/lib/marked.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked/man/marked.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked/marked.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/marked/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/mocha/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/mocha/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/mocha/.mailmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/mocha/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/mocha/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/mocha/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/mocha/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/mocha/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/mocha/media/logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/mocha/mocha.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/mocha/mocha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/mocha/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-behaviors/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-behaviors/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-behaviors/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-behaviors/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-behaviors/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-behaviors/demo/paper-button.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-behaviors/demo/paper-radio-button.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-behaviors/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-behaviors/paper-button-behavior.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-behaviors/paper-radio-button-behavior.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-behaviors/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-behaviors/test/paper-button-behavior.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-behaviors/test/paper-radio-button-behavior.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-behaviors/test/test-button.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-behaviors/test/test-radio-button.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-button/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-button/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-button/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-button/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-button/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-button/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-button/paper-button.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-button/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-button/test/paper-button.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-header-panel/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-header-panel/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-header-panel/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-header-panel/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-header-panel/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-header-panel/hero.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-header-panel/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-header-panel/paper-header-panel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-header-panel/test/basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-header-panel/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-icon-button/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-icon-button/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-icon-button/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-icon-button/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-icon-button/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-icon-button/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-icon-button/paper-icon-button.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-icon-button/test/a11y.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-icon-button/test/basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-icon-button/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-material/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-material/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-material/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-material/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-material/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-material/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-material/paper-material.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-material/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-material/test/paper-material.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-ripple/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-ripple/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-ripple/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-ripple/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-ripple/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-ripple/hero.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-ripple/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-ripple/paper-ripple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-ripple/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-ripple/test/paper-ripple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-styles/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-styles/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-styles/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-styles/classes/global.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-styles/classes/shadow-layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-styles/classes/shadow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-styles/classes/typography.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-styles/color.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-styles/default-theme.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-styles/demo-pages.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-styles/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-styles/paper-styles-classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-styles/paper-styles.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-styles/shadow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-styles/typography.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-toolbar/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-toolbar/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-toolbar/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-toolbar/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-toolbar/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-toolbar/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-toolbar/paper-toolbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-toolbar/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/paper-toolbar/test/paper-toolbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/polymer/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/polymer/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/polymer/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/polymer/build.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/polymer/polymer-micro.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/polymer/polymer-mini.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/polymer/polymer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism-element/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism-element/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism-element/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism-element/prism-highlighter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism-element/prism-import.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-actionscript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-actionscript.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-apacheconf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-apacheconf.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-applescript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-applescript.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-aspnet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-aspnet.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-autohotkey.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-autohotkey.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-bash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-bash.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-c.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-clike.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-clike.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-coffeescript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-coffeescript.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-core.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-cpp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-cpp.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-csharp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-csharp.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-css-extras.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-css-extras.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-css.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-dart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-dart.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-eiffel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-eiffel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-erlang.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-erlang.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-fortran.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-fortran.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-fsharp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-fsharp.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-gherkin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-gherkin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-git.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-git.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-go.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-go.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-groovy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-groovy.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-haml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-haml.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-handlebars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-handlebars.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-haskell.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-haskell.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-http.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-http.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-ini.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-ini.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-jade.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-jade.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-java.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-java.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-javascript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-javascript.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-jsx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-jsx.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-julia.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-julia.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-latex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-latex.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-less.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-less.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-lolcode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-lolcode.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-markdown.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-markup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-markup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-matlab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-matlab.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-nasm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-nasm.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-nsis.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-nsis.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-objectivec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-objectivec.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-pascal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-pascal.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-perl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-perl.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-php-extras.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-php-extras.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-php.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-php.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-powershell.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-powershell.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-python.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-python.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-r.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-r.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-rest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-rest.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-rip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-rip.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-ruby.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-ruby.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-rust.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-rust.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-sas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-sas.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-scala.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-scala.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-scheme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-scheme.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-scss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-scss.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-smalltalk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-smalltalk.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-smarty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-smarty.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-sql.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-sql.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-stylus.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-stylus.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-swift.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-swift.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-twig.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-twig.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-typescript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-typescript.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-wiki.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/components/prism-wiki.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/examples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/autolinker/prism-autolinker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/autolinker/prism-autolinker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/autolinker/prism-autolinker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/file-highlight/prism-file-highlight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/file-highlight/prism-file-highlight.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/highlight-keywords/prism-highlight-keywords.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/highlight-keywords/prism-highlight-keywords.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/ie8/prism-ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/ie8/prism-ie8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/ie8/prism-ie8.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/line-highlight/prism-line-highlight.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/line-highlight/prism-line-highlight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/line-highlight/prism-line-highlight.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/line-numbers/prism-line-numbers.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/line-numbers/prism-line-numbers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/line-numbers/prism-line-numbers.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/show-invisibles/prism-show-invisibles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/show-invisibles/prism-show-invisibles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/show-invisibles/prism-show-invisibles.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/show-language/prism-show-language.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/show-language/prism-show-language.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/show-language/prism-show-language.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/show-language/prism-show-language.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/wpd/prism-wpd.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/wpd/prism-wpd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/plugins/wpd/prism-wpd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/prism.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/themes/prism-coy.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/themes/prism-dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/themes/prism-funky.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/themes/prism-okaidia.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/themes/prism-tomorrow.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/themes/prism-twilight.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/themes/prism.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/prism/vendor/promise.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/promise-polyfill/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/promise-polyfill/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/promise-polyfill/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/promise-polyfill/Promise-Statics.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/promise-polyfill/Promise.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/promise-polyfill/Promise.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/promise-polyfill/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/promise-polyfill/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/promise-polyfill/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/promise-polyfill/promise-polyfill-lite.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/promise-polyfill/promise-polyfill.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/lib/sinon-chai.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/test/callArguments.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/test/callContext.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/test/callCount.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/test/callOrder.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/test/callingWithNew.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/test/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/test/messages.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/test/mocha.opts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/test/regressions.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/test/returning.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinon-chai/test/throwing.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinonjs/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinonjs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinonjs/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/sinonjs/sinon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/example.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/lib/formatting.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/lib/normalization.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/lib/parsing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/test/formatting.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/test/normalization.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/stacky/test/parsing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/web-component-tester/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/web-component-tester/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/web-component-tester/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/web-component-tester/browser.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/CustomElements.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/CustomElements.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/HTMLImports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/HTMLImports.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/MutationObserver.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/MutationObserver.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/ShadowDOM.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/ShadowDOM.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/build.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/webcomponents-lite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/webcomponents-lite.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/webcomponents.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/webcomponentsjs/webcomponents.min.js" afterPath="" />
+    </list>
+    <ignored path="re-captcha.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="re-captcha" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.031835206">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/re-captcha-basic.html" />
+        <option value="$PROJECT_DIR$/test/re-captcha-basic.js" />
+        <option value="$PROJECT_DIR$/demo.html" />
+        <option value="$PROJECT_DIR$/locales/en.json" />
+        <option value="$PROJECT_DIR$/locales/fr.json" />
+        <option value="$PROJECT_DIR$/demoLang.html" />
+        <option value="$PROJECT_DIR$/test/TestUtils.js" />
+        <option value="$PROJECT_DIR$/test/re-captcha-reloading.html" />
+        <option value="$PROJECT_DIR$/test/index.html" />
+        <option value="$PROJECT_DIR$/re-captcha.html" />
+        <option value="$PROJECT_DIR$/demo/demo.html" />
+        <option value="$PROJECT_DIR$/demo/index.html" />
+        <option value="$PROJECT_DIR$/demo/demoForm.html" />
+        <option value="$PROJECT_DIR$/demo/demoLang.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="re-captcha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="re-captcha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="re-captcha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../seed-element" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
+    <property name="editor.config.accepted" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\adzs637\labs\POLYMER\frf-elements\re-captcha\components" />
+      <recent name="D:\adzs637\labs\POLYMER\frf-elements\re-captcha\demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\adzs637\labs\POLYMER\frf-elements\re-captcha\test" />
+      <recent name="D:\adzs637\labs\POLYMER\frf-elements\re-captcha" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27f6d1c9-e23f-42c7-a301-70b3acc0d128" name="Default" comment="" />
+      <created>1453812390172</created>
+      <option name="number" value="Default" />
+      <updated>1453812390172</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add lang support and reload function">
+      <created>1454943465126</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1454943465126</updated>
+    </task>
+    <task id="LOCAL-00002" summary="upgrade version">
+      <created>1455021800767</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1455021800767</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24880762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33029613" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add lang support and reload function" />
+    <MESSAGE value="upgrade version" />
+    <option name="LAST_COMMIT_MESSAGE" value="upgrade version" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.031835206">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
